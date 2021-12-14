@@ -3,6 +3,6 @@
 Ethereum stock predictor using Pandas, Matplotlib.pyplot, Seaborn, and AutoTS. 
 
 
-[![Etherum-Screenshot.jpg](https://i.postimg.cc/YShD3BR0/Etherum-Screenshot.jpg)](https://postimg.cc/2qNxkJPN)
+[![Ethereum-Graph.png](https://i.postimg.cc/BvyngJ8H/Ethereum-Graph.png)](https://postimg.cc/TyVx2MJ3)
 
-[![Ethereum-Closing-Price.jpg](https://i.postimg.cc/m2jdWg6h/Ethereum-Closing-Price.jpg)](https://postimg.cc/HVJ0QdmC)
+[![Screenshot.png](https://i.postimg.cc/sgrSY4Fs/Screenshot.png)](https://postimg.cc/svTvySDN)
