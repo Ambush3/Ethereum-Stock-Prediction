@@ -8,10 +8,13 @@ from autots import AutoTS
 sns.set()
 plt.style.use('seaborn-darkgrid')
 
-data = pd.read_csv("ETH-USD.csv")
+data = pd.read_csv("F:/PyCharm/Machine-Learning/Ethereum Stock Prediction/ETH-USD.csv")
 print(data.head())
 
+# Dropping blank data
 data.dropna()
+
+# Plotting Ethereum Prices
 plt.figure(figsize=(10, 4))
 plt.title("Ethereum Price")
 plt.xlabel("Date")
